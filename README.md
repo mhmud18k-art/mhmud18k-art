@@ -20,10 +20,10 @@ I build interfaces that work in Arabic as well as they do in English, and I care
 
 ## What I work with
 
-**Mobile** — Flutter, Dart
-**Web** — React, TypeScript, Vite, Tailwind, vanilla JS
-**Backend & hosting** — Firebase (Firestore, Auth, Hosting)
-**Design** — Figma, design systems, accessibility, Arabic typography and RTL
+- **Mobile** — Flutter, Dart
+- **Web** — React, TypeScript, Vite, Tailwind, vanilla JS
+- **Backend & hosting** — Firebase (Firestore, Auth, Hosting)
+- **Design** — Figma, design systems, accessibility, Arabic typography and RTL
 
 ## How I work
 
